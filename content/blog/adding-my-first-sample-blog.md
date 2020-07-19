@@ -6,7 +6,7 @@ description: This looks cool
 ---
 I am writing this blog with some basics and code example. 
 
-```
+```java
 public static void main (String args) {
     System.out.println("Hello World");
     }
